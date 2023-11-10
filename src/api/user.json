@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 8,
+      "name": "Xedice",
+      "surname": "memmedova",
+      "age": "18"
+    },
+    {
+      "id": 9,
+      "name": "Zulfiyye",
+      "surname": "Eliyeva",
+      "age": "23"
+    },
+    {
+      "id": 10,
+      "name": "Hecer",
+      "surname": "Memmedova",
+      "age": "20"
+    },
+    {
+      "id": 13,
+      "name": "Aslan ",
+      "surname": "Abdulrazaqov",
+      "age": "18"
+    }
+  ]
+}
